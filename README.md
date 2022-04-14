@@ -1,4 +1,5 @@
 # TIL
-Today I Learned
+Today I Learned: 
+	- 배운 내용을  정리해서 기록합니다.
+	- 주제별 폴더로 기록합니다.
 
-do my best..!
